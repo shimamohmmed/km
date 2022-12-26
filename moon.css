@@ -1,0 +1,50 @@
+
+    
+
+#brand h1{
+    width: 100%;
+    height: 100px;
+    background-color:rgb(238, 0, 206);
+}
+#brand h1{
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+}
+#brand h2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+ul{
+    list-style: none;
+    font-size: 19px;
+}
+li{
+    display: inline;
+    font-size: 30px;
+    font-family: arial;
+    font-weight: bold;
+    color: rgb(255, 0, 179);
+    margin-left: 10px;
+}
+.link{
+    font-size:30px;
+    font-family: arial;
+    font-weight: bold;
+    color: rgb(38, 0, 255);
+}
+header  a 
+{
+    color:red;
+    text-decoration: none;
+    font-size:  19px;
+}
+header li{
+    
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+.img{
+   /*background-size: 80xp 300xp;*/
+}
